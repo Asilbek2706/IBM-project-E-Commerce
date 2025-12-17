@@ -1,0 +1,11 @@
+review,rating,clean_review,sentiment
+"Great product, really loved it!",5,great product really loved it,positive
+"Terrible, broke after one use.",1,terrible broke after one use,negative
+"Okay, nothing special.",3,okay nothing special,neutral
+"Excellent quality, will buy again.",5,excellent quality will buy again,positive
+"Not good, very disappointed.",2,not good very disappointed,negative
+"Average, could be better.",3,average could be better,neutral
+Fantastic! Highly recommend.,5,fantastic highly recommend,positive
+Worst purchase ever.,1,worst purchase ever,negative
+"Decent, but expected more.",3,decent but expected more,neutral
+"Perfect, exactly as described.",5,perfect exactly as described,positive
